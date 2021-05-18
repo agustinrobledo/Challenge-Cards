@@ -24,11 +24,15 @@ Users should be able to:
 - See hover states for interactive elements
 
 ### Screenshot
+#### Web design
+ ![web-design](https://github.com/agustinrobledo/Challenge-Cards/blob/main/screenshots%20of%20final%20design/Cards%20for%20web.png?raw=true)
+#### Mobile design
+ ![mobile-design](https://github.com/agustinrobledo/Challenge-Cards/blob/main/screenshots%20of%20final%20design/Cards%20for%20mobile.png?raw=true)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/i-used-flex-wrap-and-media-for-the-responsive-design-Nqo0TdVOs)
+
 
 ### Built with
 
@@ -38,6 +42,6 @@ Users should be able to:
 - CSS Grid
 
 ## Author
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@agustinrobledo](https://www.frontendmentor.io/profile/agustinrobledo)
 - Twitter - @_agusrobledo_ (https://www.twitter.com/_agusrobledo_)
 
