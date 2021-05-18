@@ -24,8 +24,8 @@ Users should be able to:
 - See hover states for interactive elements
 
 ### Screenshot
-![mobile-design](/screenshots of final design/Cards for mobile.png)
-![web-design](/screenshots of final design/Cards for mobile.png)
+- ![mobile-design](/screenshots of final design/Cards for mobile.png)
+- ![web-design](/screenshots of final design/Cards for mobile.png)
 
 ### Links
 
