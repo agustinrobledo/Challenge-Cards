@@ -68,10 +68,9 @@ img{
 }
 
 .button:hover{
-    background-color: rgba(255, 255, 255, 0.767);    
+    background-color: rgba(255, 255, 255, 0.766);    
     transition: 400ms;
-    
-}
+    }
 
 @media screen and (max-width:1137px){
     .container-cards{
