@@ -24,11 +24,13 @@ Users should be able to:
 - See hover states for interactive elements
 
 ### Screenshot
+![mobile-design](/screenshots of final design/Cards for mobile.png)
+![web-design](/screenshots of final design/Cards for mobile.png)
 
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+
 
 ### Built with
 
