@@ -30,7 +30,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/i-used-flex-wrap-and-media-for-the-responsive-design-Nqo0TdVOs)
+- Solution URL: [My solution on FrontendMentor](https://www.frontendmentor.io/solutions/i-used-flex-wrap-and-media-for-the-responsive-design-Nqo0TdVOs)
 
 
 ### Built with
