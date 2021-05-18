@@ -24,7 +24,7 @@ Users should be able to:
 - See hover states for interactive elements
 
 ### Screenshot
-- ![mobile-design](/screenshots of final design/Cards for mobile.png)
+- ![mobile-design](https://github.com/agustinrobledo/Challenge-Cards/blob/main/screenshots%20of%20final%20design/Cards%20for%20web.png?raw=true)
 - ![web-design](/screenshots of final design/Cards for mobile.png)
 
 ### Links
