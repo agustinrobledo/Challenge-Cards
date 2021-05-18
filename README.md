@@ -31,7 +31,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/i-used-flex-wrap-and-media-for-the-responsive-design-Nqo0TdVOs)
 
 
 ### Built with
@@ -42,6 +42,6 @@ Users should be able to:
 - CSS Grid
 
 ## Author
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@agustinrobledo](https://www.frontendmentor.io/profile/agustinrobledo)
 - Twitter - @_agusrobledo_ (https://www.twitter.com/_agusrobledo_)
 
