@@ -67,6 +67,12 @@ img{
     color: hsl(179, 100%, 13%);
 }
 
+.button:hover{
+    background-color: rgba(255, 255, 255, 0.767);    
+    transition: 400ms;
+    
+}
+
 @media screen and (max-width:1137px){
     .container-cards{
         display: flex;
