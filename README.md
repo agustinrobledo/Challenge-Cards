@@ -43,5 +43,5 @@ Users should be able to:
 
 ## Author
 - Frontend Mentor - [@agustinrobledo](https://www.frontendmentor.io/profile/agustinrobledo)
-- Twitter - @_agusrobledo_ (https://www.twitter.com/_agusrobledo_.)
+- Twitter - @_agusrobledo_ (https://www.twitter.com/_agusrobledo)
 
