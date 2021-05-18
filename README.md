@@ -31,6 +31,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [My solution on FrontendMentor](https://www.frontendmentor.io/solutions/i-used-flex-wrap-and-media-for-the-responsive-design-Nqo0TdVOs)
+- Preview on browser: [Preview](https://agustinrobledo.github.io/Challenge-Cards/)
 
 
 ### Built with
